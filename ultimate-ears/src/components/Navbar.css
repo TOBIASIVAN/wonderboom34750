@@ -1,0 +1,27 @@
+*{margin:0;
+ padding:0;
+
+
+}
+h2{
+font-weight: 0px; 
+padding:-4rem;
+}
+nav{
+background-color: bisque;
+width:100%;
+margin:0;
+padding: 35px 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+button{
+list-style: none;
+display:inline-block;
+margin: 0 20px;
+font-size: large;
+}
+
+
